@@ -1,6 +1,6 @@
 # Projeto-Netflix
 
-Pagina em desenvolvimento! Estou criando o site da netflix [ HTML - CSS - JAVASCRIPT]
+Pagina em desenvolvimento! Estou criando o site da netflix [ HTML - CSS - JAVASCRIPT ]
 
 https://andersonrodrigues1.github.io/Projeto-Netflix/
 
